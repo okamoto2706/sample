@@ -1,1 +1,1 @@
-sample text from Pycharm
+sample text from PyCharm
